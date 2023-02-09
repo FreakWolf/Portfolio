@@ -11,7 +11,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
 
 </center>
-## TL;DR
+## TLDR
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [FreakWolf](https://github.com/FreakWolf/Portfolio/). Thanks!
 
