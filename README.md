@@ -13,7 +13,7 @@
 </center>
 ## TLDR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [FreakWolf](https://github.com/FreakWolf/Portfolio/). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [FreakWolf](https://react-portfolio-freak-wolf.netlify.app/). Thanks!
 
 ## Built With
 
